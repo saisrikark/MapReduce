@@ -1,2 +1,2 @@
 # MapReduce
-Implementation of MapReduce in Rust
+Implementation of MapReduce in C++
