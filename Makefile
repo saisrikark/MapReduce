@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall
 SRCS = src/main.cpp
-TARGET = bin/out
+TARGET = bin/mapreduce
 
 .PHONY: build clean run
 
